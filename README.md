@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pmukeshreddy
 - 👀 I’m interested in ai
-- 🌱 I’m currently learning nl
+- 🌱 I’m currently learning nlp
 - 📫 How to reach me mukeshreddy662369@gmail.com
 
 <!---
